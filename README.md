@@ -18,6 +18,7 @@ Il progetto analizza la generazione di dati sintetici tabulari utilizzando l'arc
 Per riprodurre l'esperimento, clona la repository e installa le librerie necessarie:
 
 ```bash
-git clone https://github.com/francescov03/Tabular-SDG-CTGAN-Evaluation-N46006855.git
+git clone https://github.com/francescov03/Tabular-SDG-CTGAN-Evaluation-N46006855.git table-evaluator
+scikit-learn
 cd Tabular-SDG-CTGAN-Evaluation-N46006855
 pip install -r requirements.txt
