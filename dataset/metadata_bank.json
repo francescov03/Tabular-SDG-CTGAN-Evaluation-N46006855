@@ -1,0 +1,68 @@
+{
+    "columns": {
+        "age": {
+            "sdtype": "numerical"
+        },
+        "job": {
+            "sdtype": "categorical"
+        },
+        "marital": {
+            "sdtype": "categorical"
+        },
+        "education": {
+            "sdtype": "categorical"
+        },
+        "default": {
+            "sdtype": "categorical"
+        },
+        "housing": {
+            "sdtype": "categorical"
+        },
+        "loan": {
+            "sdtype": "categorical"
+        },
+        "contact": {
+            "sdtype": "categorical"
+        },
+        "month": {
+            "sdtype": "categorical"
+        },
+        "day_of_week": {
+            "sdtype": "categorical"
+        },
+        "duration": {
+            "sdtype": "numerical"
+        },
+        "campaign": {
+            "sdtype": "numerical"
+        },
+        "pdays": {
+            "sdtype": "numerical"
+        },
+        "previous": {
+            "sdtype": "categorical"
+        },
+        "poutcome": {
+            "sdtype": "categorical"
+        },
+        "emp.var.rate": {
+            "sdtype": "numerical"
+        },
+        "cons.price.idx": {
+            "sdtype": "numerical"
+        },
+        "cons.conf.idx": {
+            "sdtype": "numerical"
+        },
+        "euribor3m": {
+            "sdtype": "numerical"
+        },
+        "nr.employed": {
+            "sdtype": "numerical"
+        },
+        "y": {
+            "sdtype": "categorical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
